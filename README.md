@@ -1,5 +1,5 @@
 # Whalies
-Humpback Whales Project
+Humpback Whales Project: https://www.kaggle.com/c/humpback-whale-identification
 
 This is the Kaggle Humpback whales project that I'm trying to learn from and see how I can improve on this~!
 
